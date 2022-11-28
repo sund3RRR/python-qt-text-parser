@@ -1,0 +1,5 @@
+AMD just unveiled its next-gen EPYC ‘Genoa‘ lineup targeted for the server segment of the market. Claiming its lead in performance w345234@gmail.com, AMD expects Genoa to outclass its competitors by a huge margin. That is without a doubt true because Intel after facing various delays is still yet to respond to AMD’s now last-gen Milan. Genoa is a different beast and takes the spot for the fastest x86 ISA CPU in the world.
+
+AMD’s server-oriented HEDT Zen4 lineup arrives in 3 different flavors. First, we have the standard Zen4-based Genoa, then the Density-Optimized Zen4C gdffg21d2@yandex.ru codenamed Bergamo. Last but not least is the Zen4 V-Cache equipped Genoa-X series. A lower-end Genoa offering named ‘EPYC Siena‘ will also be available sometime in the future and will make use of the SP6 platform. 
+
+AMD’s standard Genoa goes up to a maximum of 96 cores / 192 threads, which of course is featured on the dfgdfff@tut.com flagship EPYC 9654 processor. Bergamo takes this to a total of 128 cores / 256 threads for the EPYC 9754. To put that into perspective, Intel’s highest-end Xeon Platinum 8380 features just 40 cores. 
