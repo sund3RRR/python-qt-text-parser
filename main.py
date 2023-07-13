@@ -33,7 +33,7 @@ class Del_Dialog(QDialog):
     def close_dialog(self):
         self.close()
 
-        
+# test 1 commentary        
 class App(QMainWindow):
     def __init__(self) -> None:
         super(App, self).__init__()
