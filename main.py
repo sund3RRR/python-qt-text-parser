@@ -20,7 +20,7 @@ class Add_Dialog(QDialog):
     def close_dialog(self):
         self.close()
 
-        
+# test commentary        
 class Del_Dialog(QDialog):
     def __init__(self) -> None:
         super(Del_Dialog, self).__init__()
