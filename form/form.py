@@ -193,6 +193,7 @@ class Ui_MainWindow(object):
         self.label.setObjectName("label")
         self.verticalLayout_2.addWidget(self.label)
         self.switcher_all = QtWidgets.QRadioButton(self.centralwidget)
+        self.switcher_all.setChecked(True)
         self.switcher_all.setObjectName("switcher_all")
         self.verticalLayout_2.addWidget(self.switcher_all)
         self.switcher_numbers = QtWidgets.QRadioButton(self.centralwidget)

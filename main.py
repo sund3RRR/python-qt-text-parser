@@ -156,13 +156,10 @@ class App(QMainWindow):
             return
         elif self.ui.switcher_all.isChecked():
             new_splitted_text = self.splitted_text
-            pass
         elif self.ui.switcher_numbers.isChecked():
             new_splitted_text = [string for string in self.splitted_text if re.search(r"\d", string)]
-            pass
         elif self.ui.switcher_email.isChecked():
             new_splitted_text = [string for string in self.splitted_text if re.search(r"\w+@\w+\.\w+", string)]
-            pass
         
         self.ui.text_1.clear()
         self.ui.text_1.addItems(new_splitted_text)
