@@ -9,7 +9,7 @@
 ## Клонирование репозитория
 ```
 git clone https://github.com/sund3RRR/python-qt-text-parser.git
-cd char-qualifier-neural-network
+cd python-qt-text-parser
 ```
 ## Настройка venv Linux/MacOS
 ```
